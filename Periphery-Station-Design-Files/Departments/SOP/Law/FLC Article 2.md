@@ -1,6 +1,6 @@
 #SOP 
 # Synopsis:
-
+Foundation Lawful Conduct Article 2 refers to general illegal actions that may occur on site, along with the reasonable punishments recommended by these guidelines.
 
 # Contents:
 - [[#Subsection 1:]] Violent Offences
@@ -14,11 +14,11 @@
 # Subsection 1:
 
 ## Overview:
-Violent offenses are defined by the harming, intentionally or through negligence, of another humanoid worker of the Foundation, without reasonable cause to do so. 
+Violent offenses are defined by the harming, intentionally or through negligence, of another worker of the Foundation, without reasonable cause to do so. 
 The punishments relevant to these offences are generally handled with greater severity, with the punishments proportional to both the significance and permanence of the action.
 Additionally, the punishments of the crime may be mitigated through the motivations of the act, and the intent shown by the offender.
 ## Definitions:
-An assault is considered as an action that causes minor direct harm, or a deliberate act of intimidation that causes the effected person to truly believe they are in imminent danger of being harmed. An assault can be punished with a {} level punishment.
+An assault is considered as an action that causes minor direct harm, or causes the effected person to truly believe they are in imminent danger of being harmed. An assault can be punished with a {} level punishment.
 
 Battery is considered an action that causes more significant direct harm. Battery can be punished with a {} level punishment.
 
@@ -50,9 +50,19 @@ Vital Infrastructure Damage is considered the result of an action, intentional o
 # Subsection 3:
 
 ## Overview:
-
+Unlawful Access is defined as both the methods of, and the actual occasion of, intentionally gaining access into a restricted area, physical, recorded or digital, beyond the Foundation worker's provided accesses, without reasonable cause to do so.
+The punishments relevant to this offenses are generally lower, due to the generally non-harmful nature of these actions, with the punishments scaled proportional to the access of the area accessed, and the methods used to access the area.
+Reasonable cause for Unlawful Access is usually given through either permissions of a Foundation worker with lawful access to that location, some form of necessity for the access, or [[FLC Article 5|Extraneous Circumstances]].
 ## Definitions:
+Trespassing is defined as the action of being within an area of an access level beyond the offender's without reasonable cause to do so. The punishment for this offense may scale on the specific significance of the area, along with the intent of the offender. Trespass may be punished with a level {} punishment.
 
+Secure Trespassing is defined as the action of being within an area of an access level beyond the offender's, without reasonable cause to do so. The punishment for this offense may scale on the specific significance of the area. Specifically, Secure Trespass requires the area to be the access of either Command Staff, an area of Vital Infrastructure, or any area within the [[security department]], as a non-member. Secure Trespass may be punished with a level {} punishment.
+
+Breaking And Entering is defined as the process of using destructive or subversive physical methods to gain entry and access into an area. The punishments for this offense scale on the security broken through and the significance of the damage caused. As such, Breaking And Entering can be punished with a level {} to {} punishment.
+
+Unlawful Accesses are defined as gaining accesses to certain locations through methods that bypass or otherwise do not require a Foundation worker with lawfully acquired access to permit the relevant accesses. The punishments for this offense scale based on the security of the illegal accesses to locations or information gained. Therefore, Unlawful Accesses can be punished with a level {} to {} punishment. 
+
+Hacking is defined as the use of digital or electronic methods to unlawfully access a physical or digital area through the manipulation and subversion of Foundation digital or electronic systems. The punishments for this offense scale based on both the potential damage caused to the system by the offender, along with the access gained. Hacking can be punished with a level {} to {} punishment.
 
 # Subsection 4:
 
@@ -71,5 +81,4 @@ Vital Infrastructure Damage is considered the result of an action, intentional o
 ## Overview:
 
 ## Definitions:
-
 
