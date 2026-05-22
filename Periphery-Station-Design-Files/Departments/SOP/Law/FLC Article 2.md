@@ -18,7 +18,7 @@ Violent offenses are defined by the harming, intentionally or through negligence
 The punishments relevant to these offences are generally handled with greater severity, with the punishments proportional to both the significance and permanence of the action.
 Additionally, the punishments of the crime may be mitigated through the motivations of the act, and the intent shown by the offender.
 ## Definitions:
-An assault is considered as an action that causes minor direct harm, or causes the effected person to truly believe they are in imminent danger of being harmed. An assault can be punished with a {} level punishment.
+An assault is considered as an action that causes minor direct harm, or a deliberate act of intimidation that causes the effected person to truly believe they are in imminent danger of being harmed. An assault can be punished with a {} level punishment.
 
 Battery is considered an action that causes more significant direct harm. Battery can be punished with a {} level punishment.
 
