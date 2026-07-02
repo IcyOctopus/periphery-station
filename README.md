@@ -7,7 +7,7 @@ Periphery Station is forked from: Currently Nothing!
 The choice to fork from this server was due to: It not currently existing in a large enough capacity!
 
 
-Note: Due to the SCP Foundation Wiki (Great place by the way) being under CC-BY-SA, this project most certainly will also be, I mean, it's open source anyway.
+Note: Due to the SCP Foundation Wiki (Great place by the way) being under CC-BY-SA, this project is also under CC-BY-SA
 
 Note Note: All the credits for SCP articles references will end up in game, likely through a credits page of the guidebook (and any other times something from the wiki is directly referenced), but will also be listed in a seperate file, when added.
 
